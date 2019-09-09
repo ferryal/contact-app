@@ -24,8 +24,6 @@ npm install / yarn install
 npm start / yarn start
 ```
 
-<!-- ### Live Demo
+### Live Demo
 
-[https://pokedex-site.netlify.com/](https://pokedex-site.netlify.com/)
-
-[https://pokedex-catch.netlify.com/](https://pokedex-catch.netlify.com/) -->
+[https://contact-site.netlify.com/](https://contact-site.netlify.com/)
