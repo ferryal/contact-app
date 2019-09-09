@@ -103,7 +103,7 @@ render() {
     return(
 			<React.Fragment>
 				<div className="navbar navbar-inverse navbar-fixed-top">
-					<Link className="nav-pokemon m-left-15" to="/">List Contact</Link>
+					<Link className="m-left-15" to="/">List Contact</Link>
 					<Button onClick={this.modalOpenAdd}>Add contact</Button>
 				</div>
 				<div id="container" className="container">	
