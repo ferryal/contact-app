@@ -1,4 +1,4 @@
-## Pokemon Index Web App
+## Contact Index Web App
 
 >Contact web app, this app has 6 features including:
 
